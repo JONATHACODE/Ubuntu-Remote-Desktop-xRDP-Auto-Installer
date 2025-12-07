@@ -23,13 +23,13 @@ Script otomatis untuk menginstall XFCE Desktop Environment dan xRDP server pada 
 ### 1. Download Script
 
 ```bash
-wget https://raw.githubusercontent.com/USERNAME/REPO/main/ubunturemote.sh
+wget https://raw.githubusercontent.com/JONATHACODE/Ubuntu-Remote-Desktop-xRDP-Auto-Installer/refs/heads/main/ubunturemote.sh
 ```
 
 atau
 
 ```bash
-curl -O https://raw.githubusercontent.com/USERNAME/REPO/main/ubunturemote.sh
+curl -O https://raw.githubusercontent.com/JONATHACODE/Ubuntu-Remote-Desktop-xRDP-Auto-Installer/refs/heads/main/ubunturemote.sh
 ```
 
 ### 2. Berikan Permission Execute
@@ -183,3 +183,4 @@ Jika script ini membantu, berikan ⭐ pada repository ini!
 ---
 
 **Dibuat dengan ❤️ untuk komunitas**
+
